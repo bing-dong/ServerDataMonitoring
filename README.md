@@ -1,3 +1,3 @@
 # ServerDataMonitoring
 
-ubuntu服务器部署的shadowsocks多用户流量管理控制，基于iptables的访问控制策略，到期或流量耗尽停止账户使用，动态更新空闲账号列表。
+ubuntu部署的ss服务多用户流量管理控制，基于iptables的访问控制策略。
